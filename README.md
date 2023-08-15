@@ -2,5 +2,5 @@
   Hi, I’m @bamabbott
 </h1>
 <p>
-  Be steady.
+  Making some useful tools to solve my own problems. Maybe they'll be useful for other people too.
 </p>
